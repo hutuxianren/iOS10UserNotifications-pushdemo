@@ -1,6 +1,7 @@
 # iOS10UserNotifications-pushdemo
 
-本项目只介绍本地通知，内容较为基本，适合初次接触iOS10通知的。
+本项目基于xcode8.1 iOS10.1.1 MAC 10.11.6
+只介绍本地通知，内容较为基本，适合初次接触iOS10通知的。
 包括
 - 完整的定时发送的本地通知(实现了音乐、照片和视频附件)
 - 完整的定时发送的本地通知(自定义界面使用Notification Content的storyboard，只完成了照片附件)
